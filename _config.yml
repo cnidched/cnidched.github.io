@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / class nine"
+title                    : "class nine"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "class nine"
 description              : &description "class nine web"
 url                      : https://cn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/#" # the subpath of your site, e.g. "/blog"
